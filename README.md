@@ -29,7 +29,7 @@ Follow the steps below to set up the project locally:
 ### Prerequisites
 
 Ensure you have the following installed:
-- PHP >= 8.0
+- PHP >= 8.2
 - Composer
 - MySQL or any compatible database
 - Laravel 10
