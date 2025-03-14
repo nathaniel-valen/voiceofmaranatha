@@ -34,7 +34,7 @@ class DivisiResource extends Resource
                     ->label('Foto Divisi')
                     // ->directory('divisi')
                     ->image()
-                    ->maxSize(4096)
+                    ->maxSize(12294)
                     ->required(),
             ]);
     }

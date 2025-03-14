@@ -26,7 +26,7 @@ class GaleriResource extends Resource
                 Forms\Components\FileUpload::make('image')
                     ->label('Foto Galeri')
                     ->image()
-                    ->maxSize(4096)
+                    ->maxSize(12294)
                     ->columnSpan('full')
                     ->required(),
                 Forms\Components\Textarea::make('description')

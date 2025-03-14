@@ -38,12 +38,12 @@ class BeritaResource extends Resource
                 Forms\Components\FileUpload::make('image')
                     ->label('Foto Berita')
                     ->image()
-                    ->maxSize(4096)
+                    ->maxSize(12294)
                     ->required(),
                 Forms\Components\FileUpload::make('sub_image')
                     ->label('Foto Berita Tambahan')
                     ->image()
-                    ->maxSize(4096),
+                    ->maxSize(12294),
             ]);
     }
 

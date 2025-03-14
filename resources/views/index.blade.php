@@ -18,7 +18,7 @@
             </p>
             <!-- Button Wrap -->
             <div class="flex justify-center">
-                <button onclick="location.href='#visi-misi'"
+                <button onclick="location.href='#tentang-kami'"
                     class="mr-5 inline-block rounded-xl bg-white px-6 py-3 sm:px-8 sm:py-4 text-center font-semibold text-black 
                     hover:bg-black hover:text-white transition-colors duration-800
                     border-2 border-[#E67817] shadow-lg"
