@@ -1,0 +1,10 @@
+.typed-cursor {
+    font-size: 3rem;
+    /* Ukuran sama dengan teks */
+    display: inline;
+    /* Supaya tetap sejajar */
+    vertical-align: baseline;
+    /* Sesuaikan dengan teks utama */
+    font-weight: bold;
+    /* Agar lebih tegas */
+}
